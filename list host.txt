@@ -1,0 +1,43 @@
+Beijing Telecom 4751 st1.bjtelecom.net:8080
+Suzhou Telecom 5396 218.94.214.42:8080
+Xuzhou Telecom 5324 4gxuzhou1.speedtest.jsinfo.net:8080
+Xiangyang Telecom 6435 58.51.94.106:8080 
+Shanghai Telecom 3633 speedtest1.online.sh.cn:8080
+Chengdu Telecom 4624 speed.westidc.com.cn:8080
+Nanchang Telecom 7643 182.98.238.226:8080
+Changsha Telecom 6132 124.232.142.60:8080
+Nanning Telecom 10305 speed3.189xc.com:8080
+Shenzhen Telecom 5081 119.147.52.35:8080
+Nanjing Telecom 5316 4gnanjing1.speedtest.jsinfo.net:8080
+
+
+Harbin Unicom 5460 221.212.238.106:8080
+Changchun Unicom 9484 speedtest1.jlinfo.jl.cn:8080
+Beijing Unicom 5145 www2.unicomtest.com:8080
+Tianjin Unicom 5475 speedtest1.online.tj.cn:8080
+Taiyuan unicom 12868 speedtest.sxunicomjzjk.cn:8080
+Jinan unicom 5039 jnltwy.com:8080
+Lanzhou Unicom 4690 lanzhouunicom.com:8080
+Zhengzhou unicom 5131 61.168.23.74:8080
+Xi'an unicom 4863 xatest.wo-xa.com:8080
+Nanjing Unicom 5446 58.240.53.78:8080
+Hefei unicom 5724 112.122.10.26:8080
+Shanghai Unicom 5083 211.95.17.50:8080
+Chengdu Unicom 2461 speedtest1.wangjia.net:8080
+Hangzhou Unicom 5300 101.71.241.238:8080
+Lhasa Unicom 5750 221.13.70.244:8080
+Chongqing Unicom 5726 speedtest.cqwin.com:8080
+Nanchang Unicom 7230 speedtest2.wy.jxunicom.com:8080
+Changsha Unicom 4870 speedtest01.hn165.com:8080
+Kunming Unicom 5103 speedtest1.yncuc.net:8080
+Xiamen unicom 5506 speedtest.fj133165.com:8080
+
+
+Shanghai Mobile 4665 speedtest1.sh.chinamobile.com:8080
+Xi'an Mobile 5292 speedtest1.sn.chinamobile.com:8080
+Hefei Mobile 4377 4gtest.ahydnet.com:8080
+Wuxi Mobile 5122 st1.kwuxi.cn:8080
+Chengdu Mobile 4575 183.221.247.9:8080
+Suzhou Mobile 3927 speedtest1.139life.com:8080
+Hangzhou Mobile 4647 ltetest1.139site.com:8080
+Ningbo Mobile 6715 ltetest3.139site.com:8080

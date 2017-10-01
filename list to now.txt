@@ -1,0 +1,46 @@
+4751) Beijing Telecom (Beijing, China) [10087.82 km]
+4589) China Telecom Beijing Co.,ltd (Beijing, China) [10087.82 km]
+6714) Tianjin Telecom (Tianjin, China) [10105.87 km]
+3633) China Telecom (Shanghai, China) [10464.48 km]
+6592) China Telecom Chongqing (Chongqing, China) [11545.43 km]
+3973) China Telecom (Lanzhou, China) [11107.61 km]
+4595) China Telecom HeNan Branch (Zhengzhou, China) [10677.09 km]
+
+6435) china Telecom hubei branch (Xiangyang, China) [11001.28 km]
+6132) ChinaTelecom.Hunan (Changsha, China) [11272.13 km]
+4624) ChinaTelecom (Chengdu, China) [11586.84 km]
+4433) China Telecom Anhui Co.,Ltd (Hefei, China) [10691.20 km]
+6345) ChinaTelecom.JiangXi (Nanchang, China) [11042.04 km]
+7643) China Telecom.JiangXi.Network Center (Nanchang, China) [11042.04 km]
+5274) Suzhou China Telecom (Suzhou, China) [10516.26 km]
+5316) China Telecom JiangSu Branch (Nanjing, China) [10579.94 km]
+6415) China Telecom KunMing Co.Ltd (KunMing, China) [12174.81 km]
+
+- - - -
+
+5017) China Unicom,Liaoning Branch (Shenyang, China) [9500.96 km]
+5083) Shanghai Branch, China Unicom (Shanghai, China) [10464.48 km]
+5145) Beijing Unicom (Beijing, China) [10087.82 km]
+5475) China Unicom (Tianjin, China) [10105.87 km]
+5726) China Unicom Chong Qing Branch (Chongqing, China) [11545.43 km]
+4690) China Unicom Lanzhou Branch Co.Ltd (Lanzhou, China) [11107.61 km]
+6810) HENAN UNICOM (Zhengzhou, China) [10677.09 km]
+6144) xjunicom (Urumuqi, China) [10983.92 km]
+
+5485) China Unicom,Hubei Branch (Wuhan, China) [10988.75 km]
+5724) ChinaUnicom (Hefei, China) [10691.20 km]
+7230) China Unicom.JiangXi Co.,Ltd (Nanchang, China) [11042.04 km]
+5300) Hangzhou , Zhejiang Unicom (Hangzhou, China) [10629.36 km]
+5674) GX-Unicom (Nanning, China) [12030.50 km]
+5985) Hainan Unicom (Haikou, China) [12132.51 km]
+
+- - - -
+
+4665) China Mobile Group Shanghai Co.,LTD (Shanghai, China) [10464.48 km]
+
+4575) China Mobile Group Sichuan (Chengdu, China) [11586.84 km]
+4377) China Mobile Group Anhui Co.,Ltd (Hefei, China) [10691.20 km]
+3927) China Mobile Jiangsu Co., Ltd. (Suzhou, China) [10516.26 km]
+5122) China Mobile Group Jiangsu Co.,Ltd. (Wuxi, China) [10516.75 km]
+6715) China Mobile Group Zhejiang Co., Ltd. (Ningbo, China) [10564.61 km]
+5892) China Mobile Group Yunnan Co.,Ltd. (Kunming, China) [12174.81 km]
