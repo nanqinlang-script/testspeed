@@ -7,7 +7,7 @@ Error="${Red}[Error]${Font_suffix}"
 echo -e "${Green}
 #======================================
 # Project: testspeed
-# Version: 1.3
+# Version: 1.3.1
 # Author: nanqinlang
 # Blog:   https://www.nanqinlang.com
 # Github: https://github.com/nanqinlang
@@ -64,9 +64,9 @@ select_city(){
 	[[ "${ISP}" == "3" && "${position}" == "2" ]] && city_32
 }
 city_11(){
-	echo -e "1.北京1\n2.北京2\n3.天津\n4.上海\n5.重庆\n6.甘肃兰州\n7.河南郑州" && read -p "输入数字以选择:" city
+	echo -e "1.北京1\n2.北京2\n3.天津\n4.上海\n5.甘肃兰州\n6.河南郑州" && read -p "输入数字以选择:" city
 
-#	while [[ ! "${city}" =~ ^[1-7]$ ]]
+#	while [[ ! "${city}" =~ ^[1-6]$ ]]
 #		do
 #			echo -e "${Error} 无效输入"
 #			echo -e "${Info} 请重新选择" && read -p "输入数字以选择:" city
@@ -129,9 +129,8 @@ set_id(){
 	[[ "${ISP}" == "1" && "${position}" == "1" && "${city}" == "2" ]]   && id=4589  && city_name="北京2"
 	[[ "${ISP}" == "1" && "${position}" == "1" && "${city}" == "3" ]]   && id=6714  && city_name="天津"
 	[[ "${ISP}" == "1" && "${position}" == "1" && "${city}" == "4" ]]   && id=3633  && city_name="上海"
-	[[ "${ISP}" == "1" && "${position}" == "1" && "${city}" == "5" ]]   && id=6592  && city_name="重庆"
-	[[ "${ISP}" == "1" && "${position}" == "1" && "${city}" == "6" ]]   && id=3973  && city_name="甘肃兰州"
-	[[ "${ISP}" == "1" && "${position}" == "1" && "${city}" == "7" ]]   && id=4595  && city_name="河南郑州"
+	[[ "${ISP}" == "1" && "${position}" == "1" && "${city}" == "5" ]]   && id=3973  && city_name="甘肃兰州"
+	[[ "${ISP}" == "1" && "${position}" == "1" && "${city}" == "6" ]]   && id=4595  && city_name="河南郑州"
 
 	[[ "${ISP}" == "1" && "${position}" == "2" && "${city}" == "1" ]]   && id=6435  && city_name="湖北襄阳"
 	[[ "${ISP}" == "1" && "${position}" == "2" && "${city}" == "2" ]]   && id=6132  && city_name="湖南长沙"
@@ -235,8 +234,8 @@ ISP_all(){
 	echo -e "${Info} 开始 三网快速测试 ..."
 	printf "%-14s%-18s%-20s%-12s\n" "ISP Name" "Upload Speed" "Download Speed" "Latency"
 
+	result_all '4751' '北京电信'
 	result_all '3633' '上海电信'
-	result_all '6592' '重庆电信'
 	result_all '6132' '长沙电信'
 	result_all '5316' '南京电信'
 
