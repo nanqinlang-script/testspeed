@@ -7,7 +7,7 @@ echo -e "${Green}
 # Project: testspeed
 # Version: 1.4.0
 # Author: nanqinlang
-# Blog:   https://www.nanqinlang.com
+# Blog:   https://sometimesnaive.org
 # Github: https://github.com/nanqinlang
 #======================================${Font_suffix}"
 
@@ -232,19 +232,19 @@ ISP_all(){
 	echo -e "${Info} 开始 三网快速测试 ..."
 	printf "%-14s%-18s%-20s%-12s\n" "ISP Name" "Upload Speed" "Download Speed" "Latency"
 
-	result_all '3633' '上海电信'
-	result_all '12637' '襄阳电信'
+	result_all '4589' '北京电信'
+	result_all '4595' '郑州电信'
 	result_all '4624' '成都电信'
 	result_all '5081' '深圳电信'
 
-	result_all '5083' '上海联通'
-	result_all '5726' '重庆联通'
-	result_all '5485' '武汉联通'
-	result_all '7230' '南昌联通'
+	result_all '5017' '沈阳联通'
+	result_all '5145' '北京联通'
+	result_all '5724' '合肥联通'
+	result_all '5674' '南宁联通'
 
-	result_all '4665' '上海移动'
+	result_all '4377' '合肥移动'
 	result_all '4575' '成都移动'
-	result_all '3927' '苏州移动'
+	result_all '5122' '无锡移动'
 	result_all '6715' '宁波移动'
 
 	echo -e "${Info} 测试时间: ${date}"
