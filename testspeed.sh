@@ -1,13 +1,11 @@
 #!/bin/bash
-PATH=/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin:~/bin
-export PATH
 Green="\033[32m" && Yellow="\033[33m" && Red="\033[31m" && Blue="\033[36m" && Font_suffix="\033[0m"
 Info="${Green}[Info]${Font_suffix}"
 Error="${Red}[Error]${Font_suffix}"
 echo -e "${Green}
 #======================================
 # Project: testspeed
-# Version: 1.3.1
+# Version: 1.4.0
 # Author: nanqinlang
 # Blog:   https://www.nanqinlang.com
 # Github: https://github.com/nanqinlang
@@ -171,8 +169,8 @@ set_id(){
 }
 
 install(){
-	[[ ! -e speedtest.py ]] && wget https://raw.githubusercontent.com/nanqinlang/testspeed/master/speedtest.py
-	[[ ! -e speedtest.py ]] && echo -e "${Error} download failed, please check!" && exit 1
+	[[ ! -f speedtest.py ]] && wget https://raw.githubusercontent.com/nanqinlang/testspeed/master/speedtest.py
+	[[ ! -f speedtest.py ]] && echo -e "${Error} download failed, please check!" && exit 1
 	chmod 7777 speedtest.py
 }
 
@@ -234,13 +232,13 @@ ISP_all(){
 	echo -e "${Info} 开始 三网快速测试 ..."
 	printf "%-14s%-18s%-20s%-12s\n" "ISP Name" "Upload Speed" "Download Speed" "Latency"
 
-	result_all '4751' '北京电信'
 	result_all '3633' '上海电信'
-	result_all '6132' '长沙电信'
-	result_all '5316' '南京电信'
+	result_all '12637' '襄阳电信'
+	result_all '4624' '成都电信'
+	result_all '5081' '深圳电信'
 
-	result_all '5475' '重庆联通'
-	result_all '5131' '郑州联通'
+	result_all '5083' '上海联通'
+	result_all '5726' '重庆联通'
 	result_all '5485' '武汉联通'
 	result_all '7230' '南昌联通'
 
