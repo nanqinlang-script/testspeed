@@ -14,7 +14,7 @@ no much things to explain
 cuz it's a script using `Chinese language`
 
 ```bash
-wget https://raw.githubusercontent.com/nanqinlang/testspeed/master/testspeed.sh
+wget https://raw.githubusercontent.com/nanqinlang-script/testspeed/master/testspeed.sh
 bash testspeed.sh
 ```
 
