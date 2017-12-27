@@ -21,4 +21,4 @@ bash testspeed.sh
 it's the best to say nothing !
 
 ## according
-https://sometimesnaive.org/article/linux/bash/testspeed.html
+https://sometimesnaive.org/article/linux/bash/testspeed
